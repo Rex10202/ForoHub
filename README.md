@@ -62,10 +62,10 @@ ForoHub es una aplicación web para gestionar foros de discusión. Permite a los
 ## Uso
 
 Endpoints de la API
-/login - Autenticación de usuarios
-/usuarios - Gestión de usuarios
-/temas - Gestión de temas de discusión
-/respuestas - Gestión de respuestas
+- /login - Autenticación de usuarios
+- /usuarios - Gestión de usuarios
+- /temas - Gestión de temas de discusión
+- /respuestas - Gestión de respuestas
 
 ## Documentación de la API
 
